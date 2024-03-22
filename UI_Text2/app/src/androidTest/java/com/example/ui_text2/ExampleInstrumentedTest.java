@@ -1,4 +1,4 @@
-package com.example.ui_text;
+package com.example.ui_text2;
 
 import android.content.Context;
 

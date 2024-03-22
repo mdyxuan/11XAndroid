@@ -1,4 +1,4 @@
-package com.example.ui_text;
+package com.example.ui_text2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class DisplayStringActivity extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
